@@ -1,0 +1,7 @@
+.metadata
+.settings
+[Rr]rlease
+[Dd]ebug
+*.launch
+*.pdf
+__pycache__
